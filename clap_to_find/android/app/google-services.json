@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245971790430",
+    "project_id": "claptofind-536e6",
+    "storage_bucket": "claptofind-536e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245971790430:android:a8a41fe66bbf9de035a2cf",
+        "android_client_info": {
+          "package_name": "com.tools.anti.thieft.pocket.alarm.dont.touch.my.phone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx8iJ1RnaympH2M_Mb4lU9RRvgVWlUMRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
